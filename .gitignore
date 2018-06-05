@@ -1,0 +1,7 @@
+.cache
+.idea
+.DS_Store
+node_modules/
+logs/
+public/upload/
+npm-debug.log
